@@ -1,3 +1,6 @@
+Here we went through the process of designing a chip by applying various hardware design concepts, tools, and methodologies. The project focused on translating high-level logic descriptions into a physical chip design suitable for manufacturing and market release.
+
+This project successfully demonstrated the design and development of a chip from high-level language descriptions to physical hardware. Leveraging HDL tools, RISC-V architecture, and advanced manufacturing processes ensured a robust and efficient design ready for deployment.
 ![Screenshot 2024-12-13 100533](https://github.com/user-attachments/assets/36013fbf-eba8-4041-a447-5fa1f43a83d7)
 ![2](https://github.com/user-attachments/assets/cdbe056b-9815-462f-87ea-ce452712c914)
 ![Sum](https://github.com/user-attachments/assets/b467990c-11ac-4645-8664-f1614801f7c6)
